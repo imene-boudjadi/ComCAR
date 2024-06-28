@@ -1,0 +1,1 @@
+Les images doivent etre dans le repertoire "Images" 
